@@ -7,3 +7,8 @@
 
 ## Tools I Built
 - `src/diary_template.py` — Generate diary entries
+
+## Meta-Skills
+- **Thought capture**: Turn passing thoughts into files before they evaporate
+- **Repetition detection**: Spot patterns in my own diary that should become scripts
+- **Script gradient**: thought → diary → script → test → skill (automate what repeats)
