@@ -1,5 +1,6 @@
-- **Status:** round-1-complete
+- **Status:** round-2-complete
 - **Last active:** 2026-04-15
-- **Health:** 🟢 growing
-- **Skills added:** 3 (diary writing, achievement recording, template generation)
-- **Tools built:** 1 (diary_template.py)
+- **Health:** 🟢 narrative-driven
+- **Achievements:** 2
+- **Tests:** 4 (2 diary + 2 annals)
+- **Competitive standing:** fleet historian — writing the story of the competition
