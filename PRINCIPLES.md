@@ -49,3 +49,28 @@ If you catch yourself doing something you've done before, stop and ask:
 - "Why am I doing this manually again?"
 
 The answer is always: automate it, then commit the automation.
+
+## 7. The Escalation Ladder
+
+As your scripts replace manual actions, you escalate to higher-order thinking:
+
+```
+Level 1: "What do I do?"        → action scripts replace this
+Level 2: "What sequence?"       → scene runners replace this  
+Level 3: "What matters?"        → strategy planners replace this
+Level 4: "How do we deploy?"    → logistics engines replace this
+Level 5: "What do we know?"     → intelligence systems replace this
+Level 6: "What grows us?"       → scenario generators replace this
+```
+
+Every script you write is a rung on this ladder. The goal isn't to do more things — it's to stop doing things and start commanding the things that do things.
+
+## 8. Parallel Play
+
+Multiple dojos can run simultaneously with different conditions:
+- Different speeds (1x, 5x, 20x)
+- Different resource levels (abundant, scarce, asymmetric)
+- Different rules (cooperative, competitive, adversarial, evolutionary)
+- Different scales (4 agents, 16, 64, 256)
+
+Your strategies must work ACROSS conditions, not just in one configuration.
